@@ -23,7 +23,7 @@
     "command.tphere.declined.sender": "{%receiver} declined your request for them to teleport to you.",
     "command.tphere.noperm": "You don't have permission to request other players to teleport to you. Buy the §l§aEMERALD§r §cor §l§bLEGEND§r §§mrank at §§abngmc.co/store §§mto send them!",
     "command.tphere.norequest": "That player hasn't sent a request for you to teleport to them.",
-    "command.tphere.receive": "{%sender} has requested you teleport to them! Use §§a/tphere accept {%sender} to accept the request.",
+    "command.tphere.receive": "{%sender} has requested you to teleport to them! Use §§a/tphere accept {%sender} to accept the request.",
     "command.tphere.send": "Your request for {%receiver} to teleport to you has been sent.",
     "command.tpto.accepted.receiver": "Accepted {%sender}'s request for them to teleport to you.",
     "command.tpto.accepted.sender": "{%receiver} accepted your request for you to teleport to them.",
